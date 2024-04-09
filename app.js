@@ -44,7 +44,7 @@ venom.create({
 
 const header = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer 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"
+    "Authorization": ""
 }
 
 const start = (client) =>{
